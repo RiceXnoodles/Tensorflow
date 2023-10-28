@@ -8,6 +8,7 @@
 準備一個可使用的google ccolab的帳號
 ##實際操做
 將tensorflow匯入colab
+![螢幕擷取畫面 2023-10-28 095905](https://github.com/RiceXnoodles/Tensorflow/assets/148970977/d8d32f68-bd9c-4b6a-8885-bd043dee8f6a)
 載入mnist資料集，將樣本資料整數轉成浮點數
 建構tf.keras.Sequential模型。
 每個樣本，模型都會傳回一個包含logits或log-odds分數的向量，每個類別一個
